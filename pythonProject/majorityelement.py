@@ -1,3 +1,4 @@
+#https://leetcode.com/problems/majority-element/submissions/?envType=study-plan-v2&envId=top-interview-150
 import math
 from collections import Counter
 class Solution:
