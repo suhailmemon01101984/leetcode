@@ -20,5 +20,5 @@ class Solution:
 
 
 s=Solution()
-l=["","",""]
+l=["flower","flow","flight"]
 print(s.longestCommonPrefix(l))
